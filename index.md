@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at University of Melbourne.
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
@@ -42,9 +42,4 @@ I am a Ph.D. student at ...
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
