@@ -4,7 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Melbourne.
+I am a final year Ph.D. student in the [[AI and Autonomy Lab](https://cis.unimelb.edu.au/agentlab)] at University of Melbourne. My research focuses on the intersection of AI planning and learning for seuqential decision making problems.
+
+## Publications
+- **Width-based Lookaheads with Learnt Base Policies and Heuristics Over the Atari-2600 Benchmark**
+  <br>
+  **Stefan O'Toole**, Nir Lipovetzky, Miquel Ramirez, Adrain R. Pearce
+  <br>
+  35th Conference on Neural Information Processing Systems. **NeurIPS 2021**.
+  <br>
+  [[PDF](https://arxiv.org/abs/2106.12151)] [[Code](https://github.com/stefanotoole/N-CPL)]
+
+- **Width-Based Lookaheads Augmented with Base Policies for Stochastic Shortest Paths**
+  <br>
+  **Stefan O'Toole**, Miquel Ramirez, Nir Lipovetzky, Adrain R. Pearce
+  <br>
+  11th Worskshop on Heuristics and Search for Domain-independent Planning. **HSDIP 2019**.
+  <br>
+  [[PDF](https://openreview.net/references/pdf?id=Bk2NLFuA4)] [[Code](https://github.com/miquelramirez/width-lookaheads-python)]
+
 
 <!-- ## Research Interests
 

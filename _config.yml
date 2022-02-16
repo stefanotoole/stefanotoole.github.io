@@ -8,8 +8,8 @@ github_link: https://github.com/stefanotoole
 linkedin: https://au.linkedin.com/in/stefan-o-toole-061847109
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/thumbnail.png
+favicon_dark: ./assets/img/thumbnail-dark.png
 description: Stefan O'Toole's personal homepage.
 canonical: stefanotoole.github.io
 remote_theme: yaoyao-liu/minimal-light
