@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year Ph.D. student in the [AI and Autonomy Lab](https://cis.unimelb.edu.au/agentlab) at University of Melbourne. My research focuses on the intersection of AI planning and learning for seuqential decision making problems.
+I am a final year Ph.D. student in the [AI and Autonomy Lab](https://cis.unimelb.edu.au/agentlab) at University of Melbourne. My research focuses on the intersection of AI planning and learning for sequential decision making problems.
 
 ## Publications
 - **Width-based Lookaheads with Learnt Base Policies and Heuristics Over the Atari-2600 Benchmark**
